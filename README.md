@@ -4,7 +4,7 @@
 
 ### Desenvolvedor • Cientista de Dados • Entusiasta de IA • Projetista de CI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Apaixonada+por+tecnologia+e+inova%C3%A7%C3%A3o+%F0%9F%9A%80;Construindo+projetos+com+prop%C3%B3sito+%F0%9F%92%9C;Do+sert%C3%A3o+nordestino+para+o+mundo+%F0%9F%8C%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o+%F0%9F%9A%80;Construindo+projetos+com+prop%C3%B3sito+%F0%9F%92%9C;Do+sert%C3%A3o+nordestino+para+o+mundo+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ```python
 arlis = {
-    "nome":       "Arlis",
+    "nome":        "Arlis",
     "localização": "Brasil 🇧🇷",
-    "formação":   "Engenharia de COmputação - UFBA",
-    "foco":       ["Desenvolvimento Web", "IA & Machine Learning", "Sistemas Embarcados", "Sistemas Digitais"],
-    "projetos":   ["Web", "Jogos", "Sistemas"],
+    "formação":    "Engenharia de Computação — UFBA",
+    "foco":        ["Desenvolvimento Web", "IA & Machine Learning", "Sistemas Embarcados", "Sistemas Digitais"],
+    "projetos":    ["Web", "Jogos", "Sistemas"],
     "curiosidade": "Criei um jogo de sobrevivência no sertão nordestino 🤠🌵"
 }
 ```
@@ -43,13 +43,34 @@ arlis = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-**Ferramentas**
+**Ferramentas de Desenvolvimento**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**Infraestrutura & Ambiente**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+**Ciência de Dados & IA**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Hardware & Sistemas Digitais (EDA)**
+
+![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Xcelium](https://img.shields.io/badge/Xcelium-E4003A?style=for-the-badge&logo=cadence&logoColor=white)
+![GTKWave](https://img.shields.io/badge/GTKWave-4B8BBE?style=for-the-badge&logo=gnome&logoColor=white)
 
 </div>
 
@@ -94,7 +115,7 @@ arlis = {
 ```
 🌐 Desenvolvimento Web         ████████████░░  85%
 🤖 Inteligência Artificial     ████████░░░░░░  60%
-⚙️  Sistemas Digitais         ███████░░░░░░░  55%
+⚙️  Sistemas Digitais          ███████░░░░░░░  55%
 🎮 Desenvolvimento de Jogos    ██████░░░░░░░░  45%
 📊 Ciência de Dados            ████████░░░░░░  60%
 ```
@@ -105,6 +126,7 @@ arlis = {
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhene%20Arlis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhene-arlis-4273511a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-cientistaarlis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cientistaarlis)
 
 </div>
