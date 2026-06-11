@@ -2,7 +2,7 @@
 
 # Olá, eu sou Arlis! 👋🏾
 
-### Desenvolvedor • Cientista de Dados • Entusiasta de IA • 
+### Desenvolvedor • Cientista de Dados • Entusiasta de IA • Projetista de CI
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Apaixonada+por+tecnologia+e+inova%C3%A7%C3%A3o+%F0%9F%9A%80;Construindo+projetos+com+prop%C3%B3sito+%F0%9F%92%9C;Do+sert%C3%A3o+nordestino+para+o+mundo+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
@@ -16,9 +16,9 @@
 arlis = {
     "nome":       "Arlis",
     "localização": "Brasil 🇧🇷",
-    "formação":   "Pós-Graduação — IFSudesteMG",
-    "foco":       ["Desenvolvimento Web", "IA & Machine Learning", "Sistemas Embarcados"],
-    "projetos":   ["Web Apps", "Jogos", "Sistemas em C/C++", "Automação"],
+    "formação":   "Engenharia de COmputação - UFBA",
+    "foco":       ["Desenvolvimento Web", "IA & Machine Learning", "Sistemas Embarcados", "Sistemas Digitais"],
+    "projetos":   ["Web", "Jogos", "Sistemas"],
     "curiosidade": "Criei um jogo de sobrevivência no sertão nordestino 🤠🌵"
 }
 ```
@@ -94,7 +94,7 @@ arlis = {
 ```
 🌐 Desenvolvimento Web         ████████████░░  85%
 🤖 Inteligência Artificial     ████████░░░░░░  60%
-⚙️  Sistemas Embarcados         ███████░░░░░░░  55%
+⚙️  Sistemas Digitais         ███████░░░░░░░  55%
 🎮 Desenvolvimento de Jogos    ██████░░░░░░░░  45%
 📊 Ciência de Dados            ████████░░░░░░  60%
 ```
