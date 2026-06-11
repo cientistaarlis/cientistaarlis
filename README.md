@@ -2,7 +2,7 @@
 
 # Olá, eu sou Arlis! 👋🏾
 
-### Desenvolvedora • Cientista de Dados • Entusiasta de IA
+### Desenvolvedor • Cientista de Dados • Entusiasta de IA • 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Apaixonada+por+tecnologia+e+inova%C3%A7%C3%A3o+%F0%9F%9A%80;Construindo+projetos+com+prop%C3%B3sito+%F0%9F%92%9C;Do+sert%C3%A3o+nordestino+para+o+mundo+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
